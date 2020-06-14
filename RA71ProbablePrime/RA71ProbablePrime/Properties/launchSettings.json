@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RA71ProbablePrime": {
+      "commandName": "Project",
+      "workingDirectory": "."
+    }
+  }
+}
