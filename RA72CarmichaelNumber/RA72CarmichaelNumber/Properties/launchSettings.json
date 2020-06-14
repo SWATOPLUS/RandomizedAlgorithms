@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RA72CarmichaelNumber": {
+      "commandName": "Project",
+      "workingDirectory": "."
+    }
+  }
+}
