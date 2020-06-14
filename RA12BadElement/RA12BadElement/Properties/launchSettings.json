@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RA12BadElement": {
+      "commandName": "Project",
+      "workingDirectory": "."
+    }
+  }
+}
