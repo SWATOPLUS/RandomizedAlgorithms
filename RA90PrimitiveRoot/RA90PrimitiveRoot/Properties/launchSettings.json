@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RA90PrimitiveRoot": {
+      "commandName": "Project",
+      "workingDirectory": "."
+    }
+  }
+}
